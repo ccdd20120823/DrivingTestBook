@@ -1,0 +1,9 @@
+title=新版交警手势
+tz.html=停止信号
+zx.html=直行信号
+zzw.html=左转弯信号
+zzwdz.html=左转弯待转信号
+yzw.html=右转弯信号
+bd.html=变道信号
+jsmx.html=减速慢行信号
+tc.html=示意车辆靠边停车信号

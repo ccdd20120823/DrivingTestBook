@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E93226B5-B270-4E8D-96EA-E7E0771825C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>驾考宝典(王达仿制版)</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8A2D0F0F887E07140569D9ADD81DC5273355EEA8</key>
+		<string>https://github.com/ccdd20120823/DrivingTestBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>驾考宝典(王达仿制版)/驾考宝典(王达仿制版).xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8A2D0F0F887E07140569D9ADD81DC5273355EEA8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ccdd20120823/DrivingTestBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8A2D0F0F887E07140569D9ADD81DC5273355EEA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8A2D0F0F887E07140569D9ADD81DC5273355EEA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrivingTestBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
